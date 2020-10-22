@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Chasity\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Chasity\\.nuget\\packages"
+    ]
+  }
+}
